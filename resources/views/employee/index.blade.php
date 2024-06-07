@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card shadow-lg">
-                    <div class="card-header bg-custom bg-gray text-white">
+                    <div class="card-header bg-custom bg-green text-white">
                         <h4 class="mb-0">Register Employee</h4>
                     </div>
                     <div class="card-body bg-white">
@@ -31,14 +31,14 @@
                                 </div>  
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="btn btn-secondary btn-block">Register</button>
+                                <button type="submit" class="btn btn-secondary btn-success">Register</button>
                             </div>
                         </form>
                     </div>
                 </div>
 
                 <div class="card mt-5 shadow-lg">
-                    <div class="card-header bg-custom bg-blue text-white">
+                    <div class="card-header bg-custom bg-green text-white">
                         <h4 class="mb-0">Employee List</h4>
                     </div>
                     <div class="card-body bg-white">
